@@ -1,5 +1,5 @@
 ### Hi there 👋
-### [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olivier520100&show_icons=true&theme=dark)
+### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olivier520100&show_icons=true&theme=dark)
 **Olivier520100/Olivier520100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
